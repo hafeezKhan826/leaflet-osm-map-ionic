@@ -1,0 +1,7 @@
+{
+  "name": "mapas-codigo200",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
